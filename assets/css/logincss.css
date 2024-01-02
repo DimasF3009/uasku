@@ -1,0 +1,61 @@
+body {
+    line-height:1;
+    font-size:100%;
+    font-family: 'Inika', serif;
+    background-color: rgb(212, 0, 0);
+    color: white;
+}
+#container {
+    width: 500px;
+    height: 750px;
+    margin: 0 auto;
+    box-shadow: 10lem 10lem 10lem #cccccc;
+    background-color: black;
+    opacity: 70%;
+    border-radius: 20px;  
+}
+
+#gambar{
+    padding: 20px;
+    text-align: center;
+}
+
+#gambar img{
+    border-radius: 50%;
+}
+
+#login{
+    width: 350px;
+    height: 400px;
+    margin: 10px auto;
+    background-color: rgba(2, 2, 2, 0);
+    border-radius: 30px;
+}
+
+#login form{
+    padding: 20px;
+}
+
+#login input{
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+h2{
+    padding: 10px;
+    font-size: 30px;
+}
+
+p{
+    margin: 0px 0px 0px 210px;
+}
+
+p a{
+    color: white;
+    text-decoration: none;
+}
+
+footer{   
+    margin: 0px 0px 0px 30px;
+}
